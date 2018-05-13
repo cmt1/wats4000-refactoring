@@ -1,0 +1,1 @@
+This is where static assests can be placed.  
